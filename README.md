@@ -1,4 +1,4 @@
-# FERNS-AND-PETALS-DATA-ANALYSIS
+# FERNS-AND-PETALS-DATA-ANALYSIS-PROJECT
 Excel Project on Ferns and Petals Data Analysis
 
 This project presents a comprehensive **Sales Analysis Dashboard** for **Fern and Petals (FNP)**, built using Excel. The dashboard offers actionable insights derived from customer order data, helping identify trends in revenue, product performance, customer behavior, and geographical demand.
