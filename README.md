@@ -76,8 +76,8 @@ The dashboard is designed to help stakeholders make data-driven decisions by pro
 
 If you have any queries or suggestions, feel free to connect via:
 
-- 📧 Email: [your_email@example.com]  
-- 💼 LinkedIn: [your-linkedin-profile]
+- 📧 Email: [krishanasagar406@gmail.com] 
+- 💼 LinkedIn: [https://www.linkedin.com/in/sagar-gupta087/]
 
 ---
 
